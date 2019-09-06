@@ -107,7 +107,7 @@ header{
 .bigheadline {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 100;
-	font-size: 8em;
+	font-size: 10em;
 	margin: 0;
 }
 .subheadline {
@@ -115,6 +115,7 @@ header{
 	font-weight: 200;
 	font-size: 3em;
 	margin: 0;
+	
 }
 
 .scrollDown {
@@ -424,12 +425,13 @@ header{
 
 
 #contact {
-    color: #fff;
+	color: #fff;
+	margin-top: 80px;
 }
 
 .mapWrap {
     position: relative;
-    min-height: 600px;
+	min-height: 600px;
 }
 #googleMap {
     position: absolute !important;
@@ -579,7 +581,7 @@ footer {
 		font-size: 3em;
 	}
 	.bigheadline {
-		font-size: 8em;
+		font-size: 12em;
 	}
 	.subheadline {
 		font-size: 5em;
